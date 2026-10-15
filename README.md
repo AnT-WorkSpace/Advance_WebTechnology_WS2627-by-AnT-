@@ -1,8 +1,8 @@
-# 🌐 Advanced Web Technology (AWT) — WS 26/27
+# 🌐 Advanced Web Technology (AWT)
 
-Welcome to my learning repository for the **Advanced Web Technology** course (Winter Semester 2026/27). 
+Welcome to my learning repository for the **Advanced Web Technology** course. 
 
-This repository serves as a weekly log of my progress throughout the semester, containing practice code, lecture notes, exercises, and mini-projects.
+This repository serves as a weekly log of my progress throughout the semester, containing practice code, exercises, and mini-projects.
 
 ---
 
@@ -46,7 +46,6 @@ Here is an overview of the modules covered in this course:
 ## 🔄 Weekly Repository Updates
 
 I will update this repository every week with:
-* 📝 **Lecture Notes & Key Concepts**
 * 💻 **In-class Practice Code & Exercises**
 * 🚀 **Weekly Mini-Projects & Solutions**
 
